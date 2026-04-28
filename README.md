@@ -15,8 +15,8 @@
 
   **`Desenvolvedor Fullstack`**
 
-- Cursando Analise e desenvolvimento de sistemas
-- Focado em desenvolvimento fullstack & redes de computadores
+- Cursando Ciência da Computação
+- Focado em desenvolvimento fullstack
 - Praticando todos dias para a evolução constante
 
 <p align="left">
