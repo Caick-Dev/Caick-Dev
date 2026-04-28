@@ -20,11 +20,11 @@
 - Praticando todos dias para a evolução constante
 
 <p align="left">
-    <a href="https://github.com/Caick-Dev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/ayslanndev?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Caick-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Estrelas do repositório" 
+            title="Estrelas do GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Caick-Dev/Caick-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
