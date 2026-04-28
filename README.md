@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=500&pause=2000&duration=3000&lines=Olá,+eu+me+chamo+Ayslan+Barbosa;Bem-vindo+ao+meu+GitHub." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=500&pause=2000&duration=3000&lines=Olá,+eu+me+chamo+Caick+Rodrigues;Bem-vindo+ao+meu+GitHub." />
 </p>
 
 ---
