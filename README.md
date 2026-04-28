@@ -24,7 +24,7 @@
         <img 
             alt="Estrelas do repositório" 
             title="Estrelas do GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Caick-Dev/Caick-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Caick-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
